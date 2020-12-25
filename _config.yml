@@ -20,7 +20,7 @@ title                    : "Shenchen Liu's website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shengchen Liu"
-description              : "Shenchen Liu's website."
+description              : "Shenchen Liu's website"
 url                      : https://shengchen-liu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
