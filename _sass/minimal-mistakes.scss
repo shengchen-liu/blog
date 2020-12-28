@@ -22,6 +22,7 @@
 @import "minimal-mistakes/animations";
 
 /* Components */
+@import "minimal-mistakes/section";
 @import "minimal-mistakes/buttons";
 @import "minimal-mistakes/notices";
 @import "minimal-mistakes/masthead";
@@ -29,6 +30,12 @@
 @import "minimal-mistakes/footer";
 @import "minimal-mistakes/search";
 @import "minimal-mistakes/syntax";
+@import "minimal-mistakes/header";
+@import "minimal-mistakes/hero";
+@import "minimal-mistakes/about";
+@import "minimal-mistakes/resume";
+
+
 
 /* Utility classes */
 @import "minimal-mistakes/utilities";
