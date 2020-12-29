@@ -7,4 +7,11 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+{% assign entries_layout = portfolio.entries_layout | default: 'list' %}
+<section class="taxonomy__section">
+  <div class="entries-{{ entries_layout }}">
+    {% for post in site.porfolio %}
+      {% include archive-single.html type=entries_layout %}
+    {% endfor %}
+  </div>
+</section>
