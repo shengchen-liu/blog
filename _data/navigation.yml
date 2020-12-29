@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "archive"
-    url: /post-archive-feature-rows/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "splash-page"
-    url: /splash-page/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "About"
+    url: /#about
+  - title: "Experience"
+    url: /#experience
+  - title: "Portfolio"
+    url: /#Portfolio
+  - title: "Contact"
+    url: /#contact
   - title: "Sitemap"
     url: /sitemap/
